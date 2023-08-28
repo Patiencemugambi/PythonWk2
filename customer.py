@@ -33,6 +33,6 @@ class Customer:
 customer1 = Customer('Patience', 'Mugambi')
 customer2 = Customer('Alice', 'Minaj')
 
-print(customer1.full_name())  # Output: John Doe
-print(customer2.full_name())  # Output: Jane Smith
+print(customer1.full_name())  # Output: Patience Mugambi
+print(customer2.full_name())  # Output: Alice Minaj
 print(Customer.all())  # Output: [customer1, customer2]
