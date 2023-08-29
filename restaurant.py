@@ -26,6 +26,7 @@ class Restaurant:
 
     @classmethod
     def all(cls):
+        # get_nae = to get names of all restaurants
         return [restaurant.get_name() for restaurant in cls.all_restaurants]
 
 # Test class Restaurant
