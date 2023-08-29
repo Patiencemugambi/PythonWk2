@@ -24,13 +24,13 @@ class Review:
         return self._restaurant.get_name() if self._restaurant else "Unknown Restaurant"
 
 # Test the Review class
-customer1 = Customer("John", "Doe")
+customer1 = Customer("Shaqwefa", "Deshawn")
 restaurant1 = Restaurant("Restaurant A")
 review1 = Review(customer1, restaurant1, 4)
 
 print(review1.rating())         # Output: 4
 print(Review.all())            # Output: [review1]
-print(review1.customer())      # Output: John Doe
+print(review1.customer())      # Output: Shaqwefa Deshawn
 print(review1.restaurant())    # Output: Restaurant A
 
 
