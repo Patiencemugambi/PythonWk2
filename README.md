@@ -53,4 +53,4 @@ print(Restaurant.all())             # Output: ['Shakes Diner', 'Tasty Bites']
 
 **Patience Mugambi**
 
-- LinkedIn: [Patience Mugambi](https://www.linkedin.com/feed/)
+- LinkedIn: [Patience Mugambi](www.linkedin.com/in/patience-mugambi-7621b5249)
