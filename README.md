@@ -2,7 +2,7 @@
 
 # Restaurant Review System
 
-Welcome to the Restaurant Review System, a Python application designed to manage customer reviews for restaurants. This system consists of three main classes: `Customer`, `Restaurant`, and `Review`.
+Welcome to the Restaurant Review System, a Python script designed to manage customer reviews for restaurants. This system consists of three main classes: `Customer`, `Restaurant`, and `Review`.
 
 ## Customer Class
 
