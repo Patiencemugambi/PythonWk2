@@ -32,3 +32,5 @@ print(review1.rating())         # Output: 4
 print(Review.all())            # Output: [review1]
 print(review1.customer())      # Output: John Doe
 print(review1.restaurant())    # Output: Restaurant A
+
+
