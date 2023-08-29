@@ -28,7 +28,7 @@ class Restaurant:
     def all(cls):
         return [restaurant.get_name() for restaurant in cls.all_restaurants]
 
-# Test the Restaurant class
+# Test class Restaurant
 restaurant_a = Restaurant("Shakes Diner")
 restaurant_b = Restaurant("Tasty Bites")
 
