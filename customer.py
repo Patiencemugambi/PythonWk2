@@ -13,7 +13,7 @@ class Customer:
     def set_given_name(self, new_given_name):
         self._given_name = new_given_name
 
-    # Methods for family name
+    # Methods for family namepi
     def family_name(self):
         return self._family_name
 
