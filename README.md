@@ -52,5 +52,6 @@ print(Restaurant.all())             # Output: ['Shakes Diner', 'Tasty Bites']
 ## Author
 
 **Patience Mugambi**
+- LinkedIn: [Patience Mugambi](http://www.linkedin.com/in/patience-mugambi-7621b5249)
 
-- LinkedIn: [Patience Mugambi](www.linkedin.com/in/patience-mugambi-7621b5249)
+
